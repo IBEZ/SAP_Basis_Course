@@ -1,5 +1,5 @@
 # SAP_Basis_Course
-**Creation of Role**:
+**1st Chapter:Creation of Role**:
 
 In SAP, we use T-code for roles creation type:PFCG and type name convention.
 **For example**
@@ -42,3 +42,23 @@ Execute by PFCG
 4.HR – Salaries
 
 5.Finance – GL, accounts etc.
+
+**Next Chapter :User creation**
+In SAP, there are few step for creation a user.
+
+First, we login to SAP.
+
+Second, execute t-code which is Su01
+
+**Suggestion a name of user**:zoh12po
+
+Click on create button
+
+Fill all required field for username/Lastname, password and assign the role of particular user.
+
+After creating a user, we select a user which has been created and click on change button
+
+Below mention ss are given below.
+![image](https://github.com/IBEZ/SAP_Basis_Course/assets/15713295/cb913881-ee34-40aa-9331-b02dccc93784)
+
+
