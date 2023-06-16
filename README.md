@@ -43,7 +43,7 @@ Execute by PFCG
 
 5.Finance – GL, accounts etc.
 
-**Next Chapter :User creation**
+**Chapter 2 :User creation**
 In SAP, there are few step for creation a user.
 
 First, we login to SAP.
@@ -60,5 +60,25 @@ After creating a user, we select a user which has been created and click on chan
 
 Below mention ss are given below.
 ![image](https://github.com/IBEZ/SAP_Basis_Course/assets/15713295/cb913881-ee34-40aa-9331-b02dccc93784)
+
+**Chapter 3:Client copy and Host file**
+
+Sometime, while consultant on client premises,they require a host to maintain in consultant laptop or user/end user so, they need that type of host file to maintain in they laptop
+
+**Directory in Window**
+
+Path:  C:\Windows\System32\drivers
+
+**Client copy**
+Transferring client specific data within the same system / between different system.
+
+**Purpose**
+Why we need client copy?
+For a testing purpose
+
+**Host file**
+Host file is an operating system files that map a hostname to IP address. It is a plain text file.
+
+
 
 
