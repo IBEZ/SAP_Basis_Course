@@ -19,12 +19,11 @@ There are serveral types of roles in SAP/S4.
 
 But now a days, Only two roles are working in industry.
 
-Master Roles
-Derive Roles
+1.Master Roles
+2.Derive Roles
 
 **Master Roles**: Contain non-org values and authorization object and Transaction.
         
-
 **Derive Role** :Derived role is basically derived from master which contain only org values and assign to the user.**
 
 **Execution of Role in SAP****
@@ -52,7 +51,6 @@ Master and derive role for example in SAP are attachment is given below.
 **Direct Assignment**
 
 Roles are directly assign to user or you can open any user and copy role(From the sheet or provide files)
-
 
 **Indirect Assignment**
 
@@ -93,6 +91,7 @@ Fill all required field for username/Lastname, password and assign the role of p
 After creating a user, we select a user which has been created and click on change button
 
 Below mention ss are given below.
+
 ![image](https://github.com/IBEZ/SAP_Basis_Course/assets/15713295/cb913881-ee34-40aa-9331-b02dccc93784)
 
 **Chapter 5:Client copy and Host file**
