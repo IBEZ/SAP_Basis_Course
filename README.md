@@ -67,7 +67,7 @@ Sometime, while consultant on client premises,they require a host to maintain in
 
 **Directory in Window**
 
-Path:  C:\Windows\System32\drivers
+Path:  C:\Windows\System32\drivers\etc
 
 **Client copy**
 Transferring client specific data within the same system / between different system.
