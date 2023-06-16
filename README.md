@@ -43,6 +43,11 @@ Execute by PFCG
 
 5.Finance – GL, accounts etc.
 
+Master and derive role for example in SAP are attachment is given below.
+
+![derived-role](https://github.com/IBEZ/SAP_Basis_Course/assets/15713295/0703c233-3d0a-4b09-8529-dd439b85bb0d)
+
+
 **Chapter 2 :User creation**
 In SAP, there are few step for creation a user.
 
@@ -78,6 +83,22 @@ For a testing purpose
 
 **Host file**
 Host file is an operating system files that map a hostname to IP address. It is a plain text file.
+
+
+**Chapter 4:Direct and indirect assignment**
+
+**Direct Assignment**
+
+Roles are directly assign to user or you can open any user and copy role(From the sheet or provide files)
+
+**Indirect Assignment **
+
+Roles are assigned to position
+
+**Step**
+
+Goto > Setting > Enable/ Click Complete view (Organizational Management and workflow) 
+Type or search Derive role and click on user tabs, click on Organizational mgnt :” Indirect user assignments ok”.
 
 
 
