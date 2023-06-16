@@ -91,7 +91,8 @@ Host file is an operating system files that map a hostname to IP address. It is 
 
 Roles are directly assign to user or you can open any user and copy role(From the sheet or provide files)
 
-**Indirect Assignment **
+
+**Indirect Assignment**
 
 Roles are assigned to position
 
