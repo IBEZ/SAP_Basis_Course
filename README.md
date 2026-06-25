@@ -144,5 +144,8 @@ Document real-world scenarios.
 Help beginners learn SAP Basis.
 Provide troubleshooting guides.
 Build a knowledge-sharing community.
+
+
 **Disclaimer**
+
 All notes and examples are for educational purposes only. Production system changes should always follow organizational change management procedures and approval processes.
